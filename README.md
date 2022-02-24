@@ -5,4 +5,4 @@ Used YOLO to detect objects
 
 Experimented on both binocular vision and monocular vision as input to detect objects and calculate the distance between user and the objects
 
-(poster.jpg)
+![Details](poster.jpg)
